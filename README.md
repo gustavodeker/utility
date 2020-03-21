@@ -1,10 +1,6 @@
 # Emojis
 
-[![build](https://travis-ci.org/ikatyang/emoji-cheat-sheet.svg?branch=master)](https://travis-ci.org/ikatyang/emoji-cheat-sheet)
-
-This cheat sheet is automatically generated from [GitHub Emoji API](https://api.github.com/emojis) and [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com).
-
-## Table of Contents
+## Menu
 
 - [People](#people)
 - [Nature](#nature)
